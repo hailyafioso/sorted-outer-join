@@ -1,4 +1,4 @@
-# sorted-outer-join
+# SortedJoin
 
 Join sorted iterables by a shared key, keeping one lookahead item per input.
 
